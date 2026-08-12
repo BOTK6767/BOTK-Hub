@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BOTK-HUB/BOTKzZz/refs/heads/main/FastAttack.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BOTK-HUB/BOTKzZz/refs/heads/main/Bloxfruit.lua"))()
 local Y = game.Players;
 local d = Y.LocalPlayer;
 local R = d.Character.HumanoidRootPart;
